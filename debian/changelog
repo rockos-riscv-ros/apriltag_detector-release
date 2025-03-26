@@ -1,0 +1,27 @@
+ros-jazzy-apriltag-detector-umich (3.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 27 Feb 2025 16:00:00 -0000
+
+ros-jazzy-apriltag-detector-umich (3.0.0-1trixie) trixie; urgency=high
+
+  * clean up apriltag_detector packages. Detector component is now in apriltag_detector
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 27 Feb 2025 16:00:00 -0000
+
+ros-jazzy-apriltag-detector-umich (2.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 25 Sep 2024 16:00:00 -0000
+
+ros-jazzy-apriltag-detector-umich (2.0.0-1trixie) trixie; urgency=high
+
+  * initial release as plugin
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 10 May 2024 16:00:00 -0000
+
+
